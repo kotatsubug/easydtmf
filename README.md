@@ -3,7 +3,7 @@
 Single-header C library that generates a .WAV file with DTMF tones based on a user input phone number.<br>
 
 ### Example usage
-```
+```c
 #include <stdio.h>
 
 #include "easydtmf.h"
