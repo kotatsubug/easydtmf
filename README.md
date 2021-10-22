@@ -1,5 +1,7 @@
 # easydtmf
 
+[![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kotatsubug/easydtmf/blob/master/LICENSE)
+
 Single-header C library that generates a .WAV file with DTMF tones based on a user input phone number.<br>
 
 ### Example usage
